@@ -1,0 +1,8 @@
+{
+    "name": "이름",
+    "parentProcess": "부모 프로세스",
+    "ruleInfo": {
+        "processName": "프로세스 이름",
+        "processNumber": "프로세스 수"
+    }
+}
